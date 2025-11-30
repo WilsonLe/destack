@@ -28,9 +28,9 @@
   "dependencies": {
     "concurrently": "^6.4.0",
     "cors": "^2.8.5",
-    "express": "^4.17.1",
+    "express": "^4.20.0",
     "formidable": "^1.2.2",
-    "grapesjs": "^0.16.45",
+    "grapesjs": "^0.19.5",
     "is-svg-path": "^1.0.2",
     "ts-node": "^10.4.0",
     "yargs": "^17.3.0"
@@ -43,9 +43,9 @@
     "@types/formidable": "^1.2.2",
     "@types/react": "^17.0.8",
     "autoprefixer": "^10.2.6",
-    "esbuild": "^0.12.5",
+    "esbuild": "^0.25.0",
     "nodemon": "^2.0.15",
-    "rollup": "^2.45.2",
+    "rollup": "^2.79.2",
     "rollup-plugin-esbuild": "^4.2.3",
     "rollup-plugin-import-css": "^2.0.1",
     "rollup-plugin-node-polyfills": "^0.2.1",
